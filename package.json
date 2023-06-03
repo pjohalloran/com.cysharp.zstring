@@ -1,0 +1,10 @@
+{
+  "name": "zstring",
+  "displayName": "ZString",
+  "version": "2.5.0",
+  "unity": "2021.3",
+  "description": "Zero Allocation StringBuilder for .NET Core and Unity.",
+  "keywords": [],
+  "dependencies": {},
+  "relatedPackages": {},
+}
