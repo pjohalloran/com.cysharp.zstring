@@ -7,7 +7,7 @@
   "keywords": [],
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6",
-    "com.cysharp.plugins": "ssh://git@github.com/pjohalloran/com.cysharp.plugins.git#0.0.1"
+    "com.cysharp.plugins": "0.0.1"
   },
   "relatedPackages": {}
 }
